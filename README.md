@@ -103,9 +103,9 @@ ahmedsakrr@github
 
 |                                                                     Ahmed's Stats                                                                     |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-Ahmed&theme=react-dark&hide_border=true&area=true) |
-| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=I-am-Ahmed&show_icons=true&theme=algolia)                | 
-| ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-Ahmed&theme=algolia)                            | 
+| ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahmedsakrr&theme=react-dark&hide_border=true&area=true) |
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsakrr&show_icons=true&theme=algolia)                | 
+| ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedsakrr&theme=algolia)                            | 
     
 
 |                                                                                                      Ahmed's Stars                                                                                                       |                                                            Top Languages                                                           |      
