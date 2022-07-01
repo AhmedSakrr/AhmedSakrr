@@ -117,7 +117,6 @@ ahmedsakrr@github
   <h3 align="center">Support:</h3>
   <p align = "center"><a href="https://www.buymeacoffee.com/ahmedsakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p><br><br>
 </p>
-</hr>
 
 <table style="border: none">
   <tr>
