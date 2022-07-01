@@ -139,9 +139,9 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> 
 <hr>
 <p>
   <h3 align="center">Support:</h3>
-  <p align = "center"><a href="https://www.buymeacoffee.com/ahmedsakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p><br><br>
+  <p align = "center"><a href="https://www.buymeacoffee.com/ahmedsakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p>
 </p>
-</hr>
+
 ------
 Credits: [AhmedSakr](https://github.com/ahmedsakrr)
 Last Edited On: 01/07/2022
