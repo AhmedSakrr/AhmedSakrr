@@ -103,10 +103,12 @@ ahmedsakrr@github
   <h3 align="center">Support:</h3>
   <p>
     <a href="https://www.buymeacoffee.com/ahmedsakr">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmedsakr"/>
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr"/>
     </a>
   </p>
 </p>
+
+<p align = "center"><a href="https://www.buymeacoffee.com/ahmedsakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p><br><br>
 
 ## GitHub Stats
 
