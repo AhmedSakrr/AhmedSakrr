@@ -140,7 +140,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> 
 </table>
 
 ------
-Credits: [ahmedsakr](https://github.com/ahmedsakrr)
+Credits: [AhmedSakr](https://github.com/ahmedsakrr)
 Last Edited On: 01/07/2022
 
 
