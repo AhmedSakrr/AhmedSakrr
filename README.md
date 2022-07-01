@@ -14,7 +14,7 @@ Hi, I'm Ahmed Sakr!
 <hr>
 
 ```
-I-am-ahmedsakrr@github
+ahmedsakrr@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Engineering
@@ -132,7 +132,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> 
 </table>
 
 ------
-Credits: [I-am-ahmedsakr](https://github.com/ahmedsakrr)
+Credits: [ahmedsakr](https://github.com/ahmedsakrr)
 Last Edited On: 01/07/2022
 
 
