@@ -97,13 +97,6 @@ ahmedsakrr@github
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-<!-- SUPPORT -->
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p align = "center"><a href="https://www.buymeacoffee.com/ahmedsakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p><br><br>
-</p>
-
 ## GitHub Stats
 
 
@@ -118,6 +111,13 @@ ahmedsakrr@github
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahmedsakrr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsakrr&langs_count=8&theme=algolia&layout=compact) |
 
+<!-- SUPPORT -->
+<hr>
+<p>
+  <h3 align="center">Support:</h3>
+  <p align = "center"><a href="https://www.buymeacoffee.com/ahmedsakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p><br><br>
+</p>
+</hr>
 
 <table style="border: none">
   <tr>
