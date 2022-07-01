@@ -100,9 +100,9 @@ ahmedsakrr@github
 | ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-Ahmed&theme=algolia)                            | 
     
 
-|                                                                                                      Ahmed's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Ahmed's Stars                                                                                                       |                                                            Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-ahmedsakr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -113,9 +113,9 @@ ahmedsakrr@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:ahmedsakrmedia@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> or <a href="https://www.linkedin.com/in/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
