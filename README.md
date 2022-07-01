@@ -27,7 +27,7 @@ Every Repo. or Starred project in this profile is for EDUCATIONAL PURPOSES ONLY,
 ```
 ahmedsakrr@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I'm a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Engineering
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
