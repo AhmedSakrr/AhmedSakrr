@@ -54,7 +54,7 @@ ahmedsakrr@github
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Truffle-092E20.svg?logo=truffle&logoColor=white"></a>
+    <a href="#"><img alt="Truffle" src="https://img.shields.io/badge/Truffle-000000.svg?logo=truffle&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
