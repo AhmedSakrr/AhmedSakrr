@@ -144,7 +144,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/">Fiverr</a> 
 <p>
   <h3 align="center">Support:</h3>
   <p align = "center"><a href="https://www.buymeacoffee.com/AhmedSakr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="ahmedsakr" /></a></p>
-  <p align = "center"><a href="https://ko-fi.com/ahmedsakr"> <img align="center" src="https://www.pngitem.com/pimgs/m/93-934578_ko-fi-logo-png-transparent-png.png" height="45" width="170" alt="ahmedsakr" /></a></p> 
+  <p align = "center"><a href="https://ko-fi.com/ahmedsakr"> <img align="center" src="https://storage.ko-fi.com/cdn/Kofi_Logo_Blue.svg" height="45" width="170" alt="ahmedsakr" /></a></p> 
 </p>
 
 ------
