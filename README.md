@@ -11,9 +11,9 @@ Hi, I'm <a href="https://github.com/AhmedSakrr" rel="nofollow">Ahmed Sakr</a>!
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=AhmedSakrr&label=Profile%20views&color=0e75b6&style=plastic" alt="AhmedSakrr" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="AhmedSakrr" target="_blank"/> 
 	</a>
 </p>
 
