@@ -7,7 +7,7 @@ Hi, I'm <a href="https://github.com/AhmedSakrr" rel="nofollow">Ahmed Sakr</a>!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%2C+Javascript+%26+Solidity+Programmer;Freelancer;Always+learning+new+things&center=true&width=480&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Professional%20Programmer;Freelancer;Always+learning+new+things&center=true&width=480&height=45"></a>
 </p>
 
 <p align="center"> 
