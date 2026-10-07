@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm <a href="https://github.com/AhmedSakrr" rel="nofollow">Ahmed Sakr</a>!
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=ahmedsakrr&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ahmedsakrr" />-->
  <!--<img src="https://gpvc.arturio.dev/ahmedsakrr" alt="Profile views" align='right'/> <a href="https://github.com/AhmedSakrr/AhmedSakrr/"> </a>--> 
 <br/>
