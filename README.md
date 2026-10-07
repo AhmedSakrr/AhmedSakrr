@@ -4,24 +4,28 @@
 </h1>
 
 <!-- Profile Views -->
-<!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsakrr&label=Profile%20Views&color=0e75b6&style=flat" alt="AhmedSakrr" />
+  <img
+    src="https://komarev.com/ghpvc/?username=AhmedSakrr&label=Profile%20views&color=0e75b6&style=plastic"
+    alt="AhmedSakrr Profile Views"
+    height="28"
+  />
+  <a href="https://commits.top/egypt.html" target="_blank">
+    <img
+      src="https://enfsgag3ayy6w9q.m.pipedream.net/?style=plastic"
+      alt="AhmedSakrr Commits"
+      height="28"
+    />
+  </a>
 </p>
--->
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Professional%20Programmer;Freelancer;Always+learning+new+things&center=true&width=480&height=45">
-  </a>
-</p>
-
-<!-- Profile Statistics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedSakrr&label=Profile%20views&color=0e75b6&style=plastic" alt="AhmedSakrr" />
-  <a href="https://commits.top/egypt.html" target="_blank">
-    <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="AhmedSakrr" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Professional%20Programmer;Freelancer;Always+learning+new+things&center=true&width=480&height=45"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -29,61 +33,67 @@
 
 ## ⚠️ Disclaimer
 
-> Repositories or starred projects in this profile are for **EDUCATIONAL PURPOSES ONLY**.
-> I'm not responsible for any bad uses from anyone. ❌✋
+<p align="center">
+  <strong>Repos. or Starred projects in this profile are for EDUCATIONAL PURPOSES ONLY.</strong><br>
+  I'm not responsible for any bad uses from anyone ❌✋
+</p>
 
 ---
 
 <!-- ==================== ABOUT ME ==================== -->
 
 <table>
-<tr>
-<td width="35%" align="center" valign="middle">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png"
+        alt="Profile Image"
+        width="300"
+      />
+    </td>
 
-<img
-  src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png"
-  alt="Profile Image"
-  width="300"
-/>
+    <td width="65%" valign="middle">
 
-</td>
+<h2>💫 About Me</h2>
 
-<td width="65%" valign="middle">
+<h3><code>AhmedSakrr@github</code></h3>
 
-# 💫 About Me
+<hr>
 
-### `AhmedSakrr@github`
+<p>
+💻 I'm a self taught <strong>Cyber Security & Penetration Tester</strong><br><br>
 
----
+📚 I have a <strong>Bachelor in Engineering</strong><br><br>
 
-💻 I'm a self taught **Cyber Security & Penetration Tester**
+📝 I have a strong interest in <strong>Data Science and Artificial Intelligence</strong><br><br>
 
-📚 I have a **Bachelor in Engineering**
+🔭 Working on <strong>Deep Learning & Machine Learning</strong><br><br>
 
-📝 I have a strong interest in **Data Science and Artificial Intelligence**
-
-🔭 Working on **Deep Learning & Machine Learning**
-
-🌱 Learning about **Computer Vision and Machine Learning**
+🌱 Learning about <strong>Computer Vision and Machine Learning</strong><br><br>
 
 🌟 Main languages:
-**Assembly, C/C++, Rust, Golang, Python, Javascript and Solidity**
+<strong>Assembly, C/C++, Rust, Golang, Python, Javascript and Solidity</strong><br><br>
 
-🚩 Interested in **Full Stack Machine Learning Application Development**
+🚩 Interested in <strong>Full Stack Machine Learning Application Development</strong><br><br>
 
-💖 In a complicated relationship with **Neural Networks**
+💖 In a complicated relationship with <strong>Neural Networks</strong><br><br>
 
-🎵 Love **metal, lofi, jazz and soft music**
+🎵 Love <strong>metal, lofi, jazz and soft music</strong>
+</p>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AhmedSakr@vk.com)
+<p>
+  <a href="mailto:AhmedSakr@vk.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -115,12 +125,15 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=plastic&logo=zig&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ### ☁️ Cloud & Hosting
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=Codeberg&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=plastic&logo=ovh&logoColor=#123F6D)
@@ -174,12 +187,16 @@
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=MongoDB&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
@@ -199,9 +216,9 @@
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=adobe-xd&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=adobe-xd&logoColor=%23FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
@@ -218,7 +235,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
@@ -255,6 +272,11 @@
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic)
+![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=plastic&logo=opentelemetry&logoColor=black)
 
 ---
@@ -262,15 +284,24 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AhmedSakrr&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=AhmedSakrr&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhmedSakrr&theme=shadow_red&hide_border=false" />
+  <img
+    src="https://streak-stats.demolab.com/?user=AhmedSakrr&theme=shadow_red&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedSakrr&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmedSakrr&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -278,7 +309,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedSakrr&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AhmedSakrr&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -286,7 +320,10 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
+    alt="Random Dev Quote"
+  />
 </p>
 
 ---
@@ -294,14 +331,21 @@
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AhmedSakrr&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=AhmedSakrr&limit=5&theme=transparent&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
+    width="495"
+  />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=AhmedSakrr&icon=10&color=13" />
+    <img
+      src="https://komarev.com/ghpvc/?username=AhmedSakrr&icon=10&color=13"
+      alt="Profile Views"
+    />
   </a>
 </p>
 
@@ -312,11 +356,17 @@
 <p align="center">
 
 <a href="https://buymeacoffee.com/AhmedSakr">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <img
+    src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+    alt="Buy Me a Coffee"
+  />
 </a>
 
 <a href="https://ko-fi.com/ahmedsakr">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
+    alt="Ko-Fi"
+  />
 </a>
 
 </p>
@@ -324,14 +374,10 @@
 ---
 
 <p align="center">
-
-Credits:
-<a href="https://github.com/ahmedsakrr">AhmedSakr</a>
-
-<br>
-
-Last Edited On: 06/10/2026
-
+  Credits:
+  <a href="https://github.com/ahmedsakrr">AhmedSakr</a>
+  <br>
+  Last Edited On: 06/10/2026
 </p>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
