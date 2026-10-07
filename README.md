@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1207" height="1081" alt="github homepage" src="https://github.com/user-attachments/assets/73b67103-13cf-4df3-8be2-5853eab52cae" /><h1 align="center">
 Hi, I'm <a href="https://github.com/AhmedSakrr" rel="nofollow">Ahmed Sakr</a>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=ahmedsakrr&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ahmedsakrr" />-->
@@ -29,7 +29,8 @@ AhmedSakrr@github<br>-------------------------<br>💻 I'm a self taught Cyber S
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./assets/profile-art.png" alt="Profile art" width="100%"/>
+<img src="<img width="1207" height="1081" alt="github homepage" src="https://github.com/user-attachments/assets/5d2aac90-3bb1-4497-a34e-4326b65a0762" />
+" alt="Profile art" width="100%"/>
 
 </td>
 </tr>
