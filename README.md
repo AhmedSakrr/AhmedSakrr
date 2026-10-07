@@ -19,7 +19,21 @@ Disclaimer:-
 Repos. or Starred projects in this profile is for EDUCATIONAL PURPOSES ONLY, I'm not responsible for any bad uses from anyone ❌✋
 
 # 💫 About Me:
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
 AhmedSakrr@github<br>-------------------------<br>💻 I'm a self taught Cyber Security & Penetration Tester<br>📚 I have a Bachelor in Engineering<br>📝 I have a strong interest in Data Science and Artificial Intelligence<br>🔭 Working on Deep Learning & Machine Learning<br>🌱 Learning about Computer Vision and Machine Learning stuff<br>🌟 Main languages: Assembly, C/C++, Rust, Golang, Python, Javascript and Solidity<br>🚩 Interested in Full Stack Machine Learning Application development<br>💖 In a complicated relationship with Neural Networks<br>🎵 Love metal, lofi, jazz and soft music
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="./assets/profile-art.png" alt="Profile art" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
